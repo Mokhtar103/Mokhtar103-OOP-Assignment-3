@@ -6,37 +6,32 @@ namespace GenericsExample
 {
     public class Store <T> where T : IHasId
     {
-        private readonly List<T> _entities = new List<T>();
+        private readonly Dictionary<int, T> _entities = new Dictionary<int, T>();
 
         public void Add(T entity)
         {
-            _entities.Add(entity);
+            if (_entities.ContainsKey(entity.Id))
+                throw new InvalidOperationException($"An item with Id '{entity.Id}' already exists in the store.");
+
+            _entities.Add(entity.Id, entity);
         }
 
         public T? GetById(int id)
         {
-            foreach (var entity in _entities)
-            {
-                if (entity.Id == id)
-                {
-                    return entity;
-                }
-            }
+            if (_entities.TryGetValue(id, out var entity))
+                return entity;
+
             return default;
         }
 
-        public IReadOnlyList<T> GetAll()
+        public IEnumerable<T> GetAll()
         {
-            return _entities;
+            return _entities.Values;
         }
 
         public void Remove(int id)
         {
-            var entity = GetById(id);
-            if (entity != null)
-            {
-                _entities.Remove(entity);
-            }
+            _entities.Remove(id);
         }
     }
 }

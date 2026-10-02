@@ -4,7 +4,7 @@ using System.Text;
 
 namespace GenericsExample
 {
-    public class Store <T>
+    public class Store <T> where T : IHasId
     {
         private readonly List<T> _entities = new List<T>();
 

@@ -1,0 +1,65 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "E:\\Courses\\Simulation\\Assignments\\Assignment 7 - OOP\\Mokhtar103-OOP-Assignment-3\\Collections\\src\\TestingExtenstionMethods\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{BEB0FD3F-E81F-A843-D0D3-7F439E69C5F4}|TestingExtenstionMethods\\TestingExtenstionMethods.csproj|e:\\courses\\simulation\\assignments\\assignment 7 - oop\\mokhtar103-oop-assignment-3\\collections\\src\\testingextenstionmethods\\testingextenstionmethods\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BEB0FD3F-E81F-A843-D0D3-7F439E69C5F4}|TestingExtenstionMethods\\TestingExtenstionMethods.csproj|solutionrelative:testingextenstionmethods\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BEB0FD3F-E81F-A843-D0D3-7F439E69C5F4}|TestingExtenstionMethods\\TestingExtenstionMethods.csproj|e:\\courses\\simulation\\assignments\\assignment 7 - oop\\mokhtar103-oop-assignment-3\\collections\\src\\testingextenstionmethods\\testingextenstionmethods\\stringvalidationextensions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BEB0FD3F-E81F-A843-D0D3-7F439E69C5F4}|TestingExtenstionMethods\\TestingExtenstionMethods.csproj|solutionrelative:testingextenstionmethods\\stringvalidationextensions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 4,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "StringValidationExtensions.cs",
+              "DocumentMoniker": "E:\\Courses\\Simulation\\Assignments\\Assignment 7 - OOP\\Mokhtar103-OOP-Assignment-3\\Collections\\src\\TestingExtenstionMethods\\TestingExtenstionMethods\\StringValidationExtensions.cs",
+              "RelativeDocumentMoniker": "TestingExtenstionMethods\\StringValidationExtensions.cs",
+              "ToolTip": "E:\\Courses\\Simulation\\Assignments\\Assignment 7 - OOP\\Mokhtar103-OOP-Assignment-3\\Collections\\src\\TestingExtenstionMethods\\TestingExtenstionMethods\\StringValidationExtensions.cs",
+              "RelativeToolTip": "TestingExtenstionMethods\\StringValidationExtensions.cs",
+              "ViewState": "AgIAAAoAAAAAAAAAAAAzwBwAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-02T13:50:05.717Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "E:\\Courses\\Simulation\\Assignments\\Assignment 7 - OOP\\Mokhtar103-OOP-Assignment-3\\Collections\\src\\TestingExtenstionMethods\\TestingExtenstionMethods\\Program.cs",
+              "RelativeDocumentMoniker": "TestingExtenstionMethods\\Program.cs",
+              "ToolTip": "E:\\Courses\\Simulation\\Assignments\\Assignment 7 - OOP\\Mokhtar103-OOP-Assignment-3\\Collections\\src\\TestingExtenstionMethods\\TestingExtenstionMethods\\Program.cs",
+              "RelativeToolTip": "TestingExtenstionMethods\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAgAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-02T13:46:24.257Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

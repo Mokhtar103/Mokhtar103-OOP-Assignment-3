@@ -28,3 +28,8 @@ Error : 'T' does not contain a definition for 'Id' and no accessible extension m
 * the store class includes a constraint where T : IHasId which means,
 that T must be a type that implements IHasId interface
 while string is a built-in class that doesn't implement IHasId, so the compiler will show an error
+
+## Common name for the kind of class i built
+
+- Generic Repository: it is used to put data operations in one place (add, getbyid, remove, getall),
+  so you dont rewrite them for every single entity

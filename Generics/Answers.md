@@ -1,3 +1,16 @@
+## Difference and similarties between the two stores
+
+- What is the same between the two stores
+
+* Same Crud Operations
+* Same Data structure (List<T>)
+
+- What is different between them
+
+* StudentStore manages Student objects while, CourseStore manages Course objects
+
+
+
 ## Step 3 — One class for both
 
 Error : 'T' does not contain a definition for 'Id' and no accessible extension method 'Id' accepting a first argument of type 'T' could be found (are you missing a using directive or an assembly reference?)

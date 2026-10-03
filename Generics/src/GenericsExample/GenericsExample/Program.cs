@@ -51,4 +51,4 @@ Console.WriteLine($"Result from plain List: {foundStudent?.Name ?? "Not Found"}"
 
 
 // must NOT compile
-var stringStore = new Store<string>();
+//var stringStore = new Store<string>();
